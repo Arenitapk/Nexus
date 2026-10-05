@@ -1,0 +1,15 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
+@import "@fontsource-variable/geist";
+
+@custom-variant dark (&:is(.dark *));
+
+body {
+    background: black;
+    font-family: "Roboto", sans-serif;
+}
+
+@theme {
+  --font-title: "BBH Bogle", sans-serif;
+}

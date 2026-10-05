@@ -1,0 +1,305 @@
+{
+    "productos":
+  [
+  {
+    "id": 1,
+    "nombre": "MacBook Air M2",
+    "categoria": "Portátil",
+    "marca": "Apple",
+    "ram": "8GB",
+    "almacenamiento": "256GB SSD",
+    "precio": 4286100,
+    "imagen": "https://ipowerresale.com/cdn/shop/files/media_cc86f141-d0de-4165-917b-bbb8c6c54eb6.png?v=1779816010"
+  },
+  {
+    "id": 2,
+    "nombre": "Dell XPS 13",
+    "categoria": "Portátil",
+    "marca": "Dell",
+    "ram": "16GB",
+    "almacenamiento": "512GB SSD",
+    "precio": 4874961,
+    "imagen": "https://tauretcomputadores.com/images/products/Product_202606031604541477913002.png.webp"
+  },
+  {
+    "id": 3,
+    "nombre": "ThinkPad X1 Carbon Gen 11",
+    "categoria": "Portátil",
+    "marca": "Lenovo",
+    "ram": "16GB",
+    "almacenamiento": "1TB SSD",
+    "precio": 6435000,
+    "imagen": "https://pcsystemcolombia.com/wp-content/uploads/2024/09/Portatil-Lenovo-Thinkpad-X1-Carbon-Gen-11-Panther-3.0-21HN0018LM-3.webp"
+  },
+  {
+    "id": 4,
+    "nombre": "HP Spectre x360 14",
+    "categoria": "Portátil",
+    "marca": "HP",
+    "ram": "16GB",
+    "almacenamiento": "1TB SSD",
+    "precio": 5849961,
+    "imagen": "https://crdms.images.consumerreports.org/prod/products/cr/models/413267-14-inch-laptops-hp-spectre-14-eu0013dx-x360-10038206.png"
+  },
+  {
+    "id": 5,
+    "nombre": "ASUS ROG Zephyrus G14",
+    "categoria": "Portátil",
+    "marca": "ASUS",
+    "ram": "32GB",
+    "almacenamiento": "1TB SSD",
+    "precio": 7406100,
+    "imagen": "https://dlcdnwebimgs.asus.com/gain/D366E1B6-C6E2-41B1-BF53-EF909B21FF09"
+  },
+  {
+    "id": 6,
+    "nombre": "Acer Swift Go 14",
+    "categoria": "Portátil",
+    "marca": "Acer",
+    "ram": "16GB",
+    "almacenamiento": "512GB SSD",
+    "precio": 3119961,
+    "imagen": "https://www.121pr.com/wp-content/uploads/2023/12/01.png"
+  },
+  {
+    "id": 7,
+    "nombre": "MSI Raider GE78 HX",
+    "categoria": "Portátil",
+    "marca": "MSI",
+    "ram": "32GB",
+    "almacenamiento": "2TB SSD",
+    "precio": 10526100,
+    "imagen": "https://crdms.images.consumerreports.org/f_auto,w_1200/prod/products/cr/models/413333-17-to-18-inch-laptops-msi-raider-ge78hx-14vig-600us-10038269.png"
+  },
+  {
+    "id": 8,
+    "nombre": "Microsoft Surface Laptop 6",
+    "categoria": "Portátil",
+    "marca": "Microsoft",
+    "ram": "16GB",
+    "almacenamiento": "512GB SSD",
+    "precio": 5456100,
+    "imagen": "https://cdn11.bigcommerce.com/s-jsj7fos9p1/images/stencil/1280x1280/products/417/1943/RW1gm7i__18520.1737565788.png?c=1"
+  },
+  {
+    "id": 9,
+    "nombre": "Samsung Galaxy Book4 Pro",
+    "categoria": "Portátil",
+    "marca": "Samsung",
+    "ram": "16GB",
+    "almacenamiento": "512GB SSD",
+    "precio": 5654961,
+    "imagen": "https://images.samsung.com/is/image/samsung/p6pim/es/np960xgk-kg1es/gallery/es-galaxy-book4-pro-16-inch-np960-np960xgk-kg1es-539955251?$624_624_PNG$"
+  },
+  {
+    "id": 10,
+    "nombre": "Razer Blade 15",
+    "categoria": "Portátil",
+    "marca": "Razer",
+    "ram": "16GB",
+    "almacenamiento": "1TB SSD",
+    "precio": 8579961,
+    "imagen": "https://assets.razerzone.com/eeimages/support/products/1518/1518_blade15_mid2019-base.png"
+  },
+  {
+    "id": 11,
+    "nombre": "iPhone 15 Pro Max",
+    "categoria": "Celular",
+    "marca": "Apple",
+    "ram": "8GB",
+    "almacenamiento": "256GB",
+    "precio": 4676100,
+    "imagen": "https://wefix.co.za/cdn/shop/files/iphone-15-Pro-blue-titanium_2.png?v=1731322334"
+  },
+  {
+    "id": 12,
+    "nombre": "Samsung Galaxy S24 Ultra",
+    "categoria": "Celular",
+    "marca": "Samsung",
+    "ram": "12GB",
+    "almacenamiento": "512GB",
+    "precio": 5069961,
+    "imagen": "https://www.clevercel.co/cdn/shop/files/SamsungGalaxyS24Ultra5GBLACK.webp?crop=center&height=1200&v=1781727085&width=1200"
+  },
+  {
+    "id": 13,
+    "nombre": "Google Pixel 8 Pro",
+    "categoria": "Celular",
+    "marca": "Google",
+    "ram": "12GB",
+    "almacenamiento": "128GB",
+    "precio": 3896100,
+    "imagen": "https://storage.comprasmartphone.com/smartphones/google-pixel-8-pro.png"
+  },
+  {
+    "id": 14,
+    "nombre": "Xiaomi 14 Ultra",
+    "categoria": "Celular",
+    "marca": "Xiaomi",
+    "ram": "16GB",
+    "almacenamiento": "512GB",
+    "precio": 5066100,
+    "imagen": "https://storage.comprasmartphone.com/smartphones/xiaomi-14-ultra.png"
+  },
+  {
+    "id": 15,
+    "nombre": "OnePlus 12",
+    "categoria": "Celular",
+    "marca": "OnePlus",
+    "ram": "12GB",
+    "almacenamiento": "256GB",
+    "precio": 3119961,
+    "imagen": "https://oasis.opstatics.com/content/dam/oasis/page/2023/cn/12/12-whtie.png"
+  },
+  {
+    "id": 16,
+    "nombre": "Motorola Edge 50 Ultra",
+    "categoria": "Celular",
+    "marca": "Motorola",
+    "ram": "16GB",
+    "almacenamiento": "1TB",
+    "precio": 3896100,
+    "imagen": "https://www.alkosto.com/medias/840023255830-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wzNTk5NHxpbWFnZS93ZWJwfGFEVmpMMmcyTlM4eE5Ea3lOVFExT1RNMU56Y3lOaTg0TkRBd01qTXlOVFU0TXpCZk1EQXhYemMxTUZkNE56VXdTQXw3YTI1NGFkMTZlNmQ5OWFmZjM0NDhkNWZiZGE3ODhkZWI0YzQ2OGVkZDMyYTEyMTZhYTBlYWNmNWRmNDUwMjRh"
+  },
+  {
+    "id": 17,
+    "nombre": "Apple iPhone 17 pro max",
+    "categoria": "Celular",
+    "marca": "Apple",
+    "ram": "8GB",
+    "almacenamiento": "256GB",
+    "precio": 5116100,
+    "imagen": "https://tu360compras.bancolombia.com/650770-medium_default/celular-apple-iphone-17-pro-max-5g-12512gb-plata.jpg"
+  },
+  {
+    "id": 18,
+    "nombre": "Samsung Galaxy Z Fold5",
+    "categoria": "Celular",
+    "marca": "Samsung",
+    "ram": "12GB",
+    "almacenamiento": "512GB",
+    "precio": 7019961,
+    "imagen": "https://images.samsung.com/is/image/samsung/p6pim/co/2307/gallery/co-galaxy-z-fold5-f946-sm-f946blbjltc-thumb-537223479"
+  },
+  {
+    "id": 19,
+    "nombre": "Samsung Galaxy A55 5G",
+    "categoria": "Celular",
+    "marca": "Samsung",
+    "ram": "8GB",
+    "almacenamiento": "256GB",
+    "precio": 1751100,
+    "imagen": "https://images.samsung.com/is/image/samsung/p6pim/co/sm-a556ezylltc/gallery/co-galaxy-a55-5g-sm-a556-499700-sm-a556ezylltc-thumb-543976379"
+  },
+  {
+    "id": 20,
+    "nombre": "Xiaomi Redmi Note 13 Pro+ 5G",
+    "categoria": "Celular",
+    "marca": "Xiaomi",
+    "ram": "12GB",
+    "almacenamiento": "512GB",
+    "precio": 1556100,
+    "imagen": "https://i02.appmifile.com/861_operatorx_operatorx_opx/06/09/2024/81bc431668bddec2805ee43d10624180.png"
+  },
+  {
+    "id": 21,
+    "nombre": "Google Pixel 8a",
+    "categoria": "Celular",
+    "marca": "Google",
+    "ram": "8GB",
+    "almacenamiento": "128GB",
+    "precio": 1946100,
+    "imagen": "https://storage.comprasmartphone.com/smartphones/google-pixel-8a.png"
+  },
+  {
+    "id": 22,
+    "nombre": "Realme GT 6",
+    "categoria": "Celular",
+    "marca": "Realme",
+    "ram": "12GB",
+    "almacenamiento": "256GB",
+    "precio": 2336100,
+    "imagen": "https://comprasmartphone.com/_next/image?url=https%3A%2F%2Fstorage.comprasmartphone.com%2Fsmartphones%2Frealme-gt6.png&w=3840&q=75"
+  },
+  {
+    "id": 23,
+    "nombre": "Sony Xperia 1 VI",
+    "categoria": "Celular",
+    "marca": "Sony",
+    "ram": "12GB",
+    "almacenamiento": "256GB",
+    "precio": 5456100,
+    "imagen": "https://sony.scene7.com/is/image/sonyglobalsolutions/3075_Primary_image_black-1200?$categorypdpnav$&fmt=png-alpha"
+  },
+  {
+    "id": 24,
+    "nombre": "ASUS ROG Phone 8 Pro",
+    "categoria": "Celular",
+    "marca": "ASUS",
+    "ram": "16GB",
+    "almacenamiento": "512GB",
+    "precio": 4679961,
+    "imagen": "https://dlcdnwebimgs.asus.com/gain/1F082CCC-7F01-4057-B250-4B81B1651877"
+  },
+  {
+    "id": 25,
+    "nombre": "Nothing Phone (2)",
+    "categoria": "Celular",
+    "marca": "Nothing",
+    "ram": "12GB",
+    "almacenamiento": "256GB",
+    "precio": 2726100,
+    "imagen": "https://comprasmartphone.com/_next/image?url=https%3A%2F%2Fstorage.comprasmartphone.com%2Fsmartphones%2Fnothing-phone-2.png&w=3840&q=75"
+  },
+  {
+    "id": 26,
+    "nombre": "Honor Magic6 Pro",
+    "categoria": "Celular",
+    "marca": "Honor",
+    "ram": "12GB",
+    "almacenamiento": "512GB",
+    "precio": 4676100,
+    "imagen": "https://img02.honorfile.com/ap/mx/honor/pms/product/6936520840236/800_800_90Percent_1183FC49ABAF4F69801837E4B4D649E6F4478ABB2373AB64mp.webp"
+  },
+  {
+    "id": 27,
+    "nombre": "Vivo X100 Pro",
+    "categoria": "Celular",
+    "marca": "Vivo",
+    "ram": "16GB",
+    "almacenamiento": "512GB",
+    "precio": 4286100,
+    "imagen": "https://storage.comprasmartphone.com/smartphones/vivo-x100-pro.png"
+  },
+  {
+    "id": 28,
+    "nombre": "Poco F6 Pro",
+    "categoria": "Celular",
+    "marca": "Poco",
+    "ram": "12GB",
+    "almacenamiento": "512GB",
+    "precio": 1946100,
+    "imagen": "https://i.blogs.es/70dbb8/poco-f6-pro/450_1000.png"
+  },
+  {
+    "id": 29,
+    "nombre": "Motorola Edge 50 Pro",
+    "categoria": "Celular",
+    "marca": "Motorola",
+    "ram": "12GB",
+    "almacenamiento": "512GB",
+    "precio": 2726100,
+    "imagen": "https://www.clevercel.co/cdn/shop/files/MotorolaMotoEdge50ProLAVENDER.webp?crop=center&height=300&v=1782318044&width=300"
+  },
+  {
+    "id": 30,
+    "nombre": "Apple iPhone 16 pro",
+    "categoria": "Celular",
+    "marca": "Apple",
+    "ram": "8GB",
+    "almacenamiento": "256GB",
+    "precio": 4673100,
+    "imagen": "https://www.clevercel.co/cdn/shop/files/iPhone16ProBLACKTITANIUM.webp?crop=center&height=1200&v=1781802426&width=1200"
+  }
+]
+}
