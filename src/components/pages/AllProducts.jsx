@@ -1,8 +1,7 @@
-import Filter from '../components/Filter'
+import Filter from '../Filter'
 import React from 'react'
 import { useEffect, useState } from 'react'
-import useProducts from '../components/custsomHook/useProducts'
-import Cards from '../components/Cards'
+import Cards from '../products/Cards'
 
 const AllProducts = () => {
 
@@ -50,8 +49,10 @@ const AllProducts = () => {
   return (
     <section className="">
         <div className="text-white bg-[url('./assets/fondoProductos.png')] bg-cover lg:px-25 pt-25 pb-8">
-            <p>CATALOGO DE PRODUCTOS</p>
-            <h1 className='font-title text-6xl'>Todos los productos</h1>
+            <div className='bg-gradient-to-r from-white via-gray-500 to-gray-600 bg-clip-text text-transparent'>
+                <p>CATALOGO DE PRODUCTOS</p>
+                <h1 className='font-title text-6xl'>Todos los productos</h1>
+            </div>
         <Filter productos={productos} setSearch={setSearch} setSelectMarca={setSelectMarca} setSelectPrecio={setSelectPrecio} setSelectCategoria={setSelectCategoria} selectCategoria={selectCategoria}/>
         </div>
 

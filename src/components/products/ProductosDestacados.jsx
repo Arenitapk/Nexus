@@ -1,6 +1,6 @@
 import React from 'react'
 import { useEffect, useState } from 'react'
-import Cards from '../components/Cards'
+import Cards from './Cards'
 import { Link } from 'react-router'
 
 const ProductosDestacados = () => {

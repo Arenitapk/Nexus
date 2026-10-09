@@ -3,8 +3,9 @@ import { useEffect } from 'react'
 import { createBrowserRouter, RouterProvider } from 'react-router'
 import MainLayout from './components/layout/MainLayout'
 import useProducts from './components/custsomHook/useProducts'
-import HomePage from './pages/HomePage'
-import AllProducts from './products/AllProducts'
+import HomePage from './components/pages/HomePage'
+import AllProducts from './components/pages/AllProducts'
+import Nosotros from './components/Nosotros'
 
 const App = () => {
 
@@ -26,7 +27,8 @@ const App = () => {
       element: <MainLayout/>,
       children: [
         {index: true, element: <HomePage/>},
-        {path: '/productos', element: <AllProducts/>}
+        {path: '/productos', element: <AllProducts/>},
+        {path: '/nosotros', element: <Nosotros />}
       ]
     }
   ])

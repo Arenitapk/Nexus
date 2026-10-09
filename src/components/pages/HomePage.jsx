@@ -1,7 +1,7 @@
 import React from 'react'
-import Encabezado from '../components/layout/Encabezado'
-import Hero from '../components/Hero'
-import Recomendaciones from '../components/Recomendaciones'
+import Encabezado from '../layout/Encabezado'
+import Hero from '../Hero'
+import Recomendaciones from '../Recomendaciones'
 import ProductosDestacados from '../products/ProductosDestacados'
 import VerAccesorios from '../VerAccesorios'
 
